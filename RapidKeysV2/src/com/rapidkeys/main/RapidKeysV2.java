@@ -9,6 +9,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class RapidKeysV2 extends Application {
+	//Needed sometimes
 	public static void main(String[] args) {
 		launch(args);
 	}
