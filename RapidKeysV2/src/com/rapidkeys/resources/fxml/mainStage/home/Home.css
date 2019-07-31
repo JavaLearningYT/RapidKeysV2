@@ -1,0 +1,24 @@
+.startBut{
+	-fx-background-color:#dedbd3;
+	-fx-background-radius: 3;
+	-fx-border-radius: 3;
+}
+.startBut:hover{
+	-fx-background-color:#c2c0ba;
+	-fx-background-radius: 3;
+	-fx-border-radius: 3;
+}
+.startBut:pressed{
+	-fx-background-color:#d1d0cb;
+	-fx-background-radius: 3;
+	-fx-border-radius: 3;
+}
+.hbox{
+	-fx-background-color:white;
+}
+.vbox{
+	-fx-background-color:white;
+}
+.anchor{
+	-fx-background-color:white;
+}

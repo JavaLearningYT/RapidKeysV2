@@ -1,0 +1,19 @@
+.border-pane{
+	-fx-background-color: white;
+}
+.vbox{
+	-fx-spacing: 10;
+	-fx-background-color:rgb(152,210,17);
+	-fx-padding: 0 10 1 10; 
+}
+.topButtons{
+	-fx-background-radius: 0;
+	-fx-background-color:rgb(152,210,17);
+	-fx-pref-width: 100px;
+}
+.topButtons:hover{
+	-fx-background-color:rgb(126,175,14)
+}
+.topButtons:pressed {
+	-fx-background-color:rgb(121,167,14)
+}
